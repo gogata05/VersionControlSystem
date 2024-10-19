@@ -44,6 +44,9 @@ bld/
 # Visual Studio Code Workspace
 .vscode/
 
+# Visual Studio folder
+.vs/
+
 # Uncomment if using NuGet
 # *.nupkg
 # *.snupkg
