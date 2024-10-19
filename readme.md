@@ -67,28 +67,46 @@ The solutions architect has chosen the following technologies:
 
 
 Your Tasks:
+
 As part of the developer team that will be implementing the application features, you have been assigned to complete the following tasks:
+
 1. Create the application database model
+
 • Implement the entities with the correct data types and their relations
+
 • Add indexes and column constraints
+
 • Use Entity Framework Core
 
 2. Create the Web API endpoints
+
 • Create the controllers
+
 • Create the endpoints (controller actions)
+
 • Ensure adequate routes, route parameters, query parameters, and request models
+
 • Validate the endpoint input models
+
 • Do NOT implement the endpoints. Just throw a Not Implemented Exception
+
 • Use ASP.NET Core 6.0
 
 3. Create a repository management page
+
 • Implement the CRUD endpoints for the repositories
 ALL
+
 • List the repositories, the most recent on top
+
 • Add a section for repository creation
+
 • Add a delete option for each repository list item.
+
 • Add a search input and implement a server-side search by repository title.
+
 • Do not bother with authentication/authorization. Mock the repository author data.
+
 • Use React
 
 Scoring
@@ -96,6 +114,9 @@ Scoring
 2.ASP.NET Web API Endpoints - 30 points
 3. React Repository Management - 30 points
 
+
 If your file size is too large, please delete the bin, obj, and node_modules folders.
+
 Drag and Drop File:
+
 Add File
