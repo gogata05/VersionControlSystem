@@ -8,7 +8,77 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.container {
+  max-width: 800px;
+  margin: 0 auto; /* Centers the container horizontally */
+  padding: 20px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+/* Center the search input and button */
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.search-container input[type="text"] {
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.search-container button {
+  padding: 5px 10px;
+}
+
+/* Center the form */
+form {
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+form div {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+form label {
+  margin-right: 10px;
+}
+
+form input[type="text"] {
+  flex: 1;
+  padding: 5px;
+}
+
+form button {
+  display: block;
+  margin: 0 auto;
+  padding: 5px 10px;
+}
+
+/* Center the list */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+li {
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li button {
+  margin-left: 10px;
 }

@@ -4,7 +4,7 @@ import RepositoryList from "./components/RepositoryList";
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <h1>Repository Management</h1>
       <RepositoryList />
     </div>

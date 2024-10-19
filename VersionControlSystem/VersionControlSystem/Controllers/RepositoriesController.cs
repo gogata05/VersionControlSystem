@@ -19,7 +19,7 @@ namespace VersionControlSystem.Controllers
 
         // GET: api/Repositories
         [HttpGet]
-        public IActionResult GetRepositories([FromQuery] string search)
+        public IActionResult GetRepositories([FromQuery] string? search)
         {
             // Mock current user
             int currentUserId = 1;

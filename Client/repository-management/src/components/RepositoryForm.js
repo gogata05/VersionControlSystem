@@ -9,11 +9,9 @@ function RepositoryForm({ fetchRepositories }) {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    // Мокаем данни за автора (OwnerId)
     const newRepository = {
       title,
       isPublic,
-      ownerId: 1, // Можете да замените с фиктивен потребителски ID
     };
 
     try {

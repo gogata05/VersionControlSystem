@@ -3,48 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\controllers\\repositoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\controllers\\repositoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\controllers\\pullrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\controllers\\pullrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Migrations\\20241019170120_SeedDefaultUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VersionControlSystem\\Migrations\\20241019170120_SeedDefaultUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\repositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\repositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\pullrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\pullrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\modification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\modification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\dtos\\createrepositorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\dtos\\createrepositorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\controllers\\repositoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\controllers\\repositoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\modification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\modification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\pullrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\pullrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\repositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\repositoryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\controllers\\commitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\controllers\\commitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Migrations\\20241019170120_SeedDefaultUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VersionControlSystem\\Migrations\\20241019170120_SeedDefaultUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -55,24 +71,8 @@
       "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Migrations\\20241019164854_updateRepositoryClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VersionControlSystem\\Migrations\\20241019164854_updateRepositoryClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\controllers\\pullrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\controllers\\pullrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\controllers\\commitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|solutionrelative:versioncontrolsystem\\controllers\\commitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4BE08C9-838B-4D85-B0C0-86544FC81A15}|VersionControlSystem\\VersionControlSystem.csproj|c:\\users\\georgi markov\\documents\\github\\indearversioncontrolsystem\\versioncontrolsystem\\versioncontrolsystem\\migrations\\20241019150822_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "20241019170120_SeedDefaultUser.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Migrations\\20241019170120_SeedDefaultUser.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Migrations\\20241019170120_SeedDefaultUser.cs",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "20241019164854_updateRepositoryClass.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Migrations\\20241019164854_updateRepositoryClass.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Migrations\\20241019164854_updateRepositoryClass.cs",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "CreateRepositoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\Dtos\\CreateRepositoryDto.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Models\\Dtos\\CreateRepositoryDto.cs",
@@ -137,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "VersionControlSystem\\Properties\\launchSettings.json",
@@ -150,33 +150,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "PullRequestsController.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Controllers\\PullRequestsController.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Controllers\\PullRequestsController.cs",
               "ToolTip": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Controllers\\PullRequestsController.cs",
               "RelativeToolTip": "VersionControlSystem\\Controllers\\PullRequestsController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAqwEUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T15:17:45.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "CommitsController.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Controllers\\CommitsController.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Controllers\\CommitsController.cs",
               "ToolTip": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Controllers\\CommitsController.cs",
               "RelativeToolTip": "VersionControlSystem\\Controllers\\CommitsController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T15:17:26.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "IssuesController.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Controllers\\IssuesController.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Controllers\\IssuesController.cs",
@@ -230,26 +230,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Models\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "VersionControlSystem\\Models\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAgwFYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAxwGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T14:56:55.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Issue.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\Issue.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Models\\Issue.cs",
               "ToolTip": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\Issue.cs",
               "RelativeToolTip": "VersionControlSystem\\Models\\Issue.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA5wB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T14:56:45.692Z",
               "EditorCaption": ""
@@ -269,20 +269,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PullRequest.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\PullRequest.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Models\\PullRequest.cs",
               "ToolTip": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\PullRequest.cs",
               "RelativeToolTip": "VersionControlSystem\\Models\\PullRequest.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAxwCgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T14:56:32.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Commit.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\Commit.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Models\\Commit.cs",
@@ -295,20 +295,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\User.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\User.cs",
               "RelativeToolTip": "VersionControlSystem\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T14:52:55.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "RepositoryUser.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\RepositoryUser.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Models\\RepositoryUser.cs",
@@ -321,46 +321,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\Repository.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Models\\Repository.cs",
               "ToolTip": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Models\\Repository.cs",
               "RelativeToolTip": "VersionControlSystem\\Models\\Repository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T14:50:24.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "RepositoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Controllers\\RepositoriesController.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Controllers\\RepositoriesController.cs",
               "ToolTip": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Controllers\\RepositoriesController.cs",
               "RelativeToolTip": "VersionControlSystem\\Controllers\\RepositoriesController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgvy4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T14:48:03.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Program.cs",
               "RelativeDocumentMoniker": "VersionControlSystem\\Program.cs",
               "ToolTip": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\Program.cs",
               "RelativeToolTip": "VersionControlSystem\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T14:46:12.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Georgi Markov\\Documents\\GitHub\\INDEARVersionControlSystem\\VersionControlSystem\\VersionControlSystem\\appsettings.json",
               "RelativeDocumentMoniker": "VersionControlSystem\\appsettings.json",
