@@ -1,4 +1,3 @@
-// src/components/RepositoryList.js
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import RepositoryForm from "./RepositoryForm";
@@ -7,31 +6,26 @@ function RepositoryList() {
   const [repositories, setRepositories] = useState([]);
   const [searchTitle, setSearchTitle] = useState("");
 
-  // Fetch all repositories when the component mounts
   useEffect(() => {
     fetchRepositories();
   }, []);
 
   const fetchRepositories = async () => {
     try {
-      // Prepare query parameters
       const params = {};
       if (searchTitle.trim() !== "") {
         params.search = searchTitle;
       }
-      const response = await axios.get(
-        "https://localhost:7029/api/Repositories",
-        {
-          params: params,
-        }
-      );
+      const response = await axios.get("https://localhost:7029/api/Repositories", {
+        params: params
+      });
       setRepositories(response.data);
     } catch (error) {
       console.error("Error fetching repositories:", error);
     }
   };
 
-  const handleDelete = async (id) => {
+  const handleDelete = async id => {
     try {
       await axios.delete(`https://localhost:7029/api/Repositories/${id}`);
       fetchRepositories();
@@ -40,7 +34,7 @@ function RepositoryList() {
     }
   };
 
-  const handleSearchChange = (e) => {
+  const handleSearchChange = e => {
     setSearchTitle(e.target.value);
   };
 
@@ -52,17 +46,12 @@ function RepositoryList() {
     <div>
       <h2>Repositories</h2>
       <div className="search-container">
-        <input
-          type="text"
-          placeholder="Search by title..."
-          value={searchTitle}
-          onChange={handleSearchChange}
-        />
+        <input type="text" placeholder="Search by title..." value={searchTitle} onChange={handleSearchChange} />
         <button onClick={handleSearch}>Search</button>
       </div>
       <RepositoryForm fetchRepositories={fetchRepositories} />
       <ul>
-        {repositories.map((repo) => (
+        {repositories.map(repo => (
           <li key={repo.id}>
             <span>
               {repo.title} - {repo.isPublic ? "Public" : "Private"}

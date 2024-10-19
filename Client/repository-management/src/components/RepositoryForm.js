@@ -1,4 +1,3 @@
-// src/components/RepositoryForm.js
 import React, { useState } from "react";
 import axios from "axios";
 
@@ -6,19 +5,16 @@ function RepositoryForm({ fetchRepositories }) {
   const [title, setTitle] = useState("");
   const [isPublic, setIsPublic] = useState(true);
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = async e => {
     e.preventDefault();
 
     const newRepository = {
       title,
-      isPublic,
+      isPublic
     };
 
     try {
-      await axios.post(
-        "https://localhost:7029/api/Repositories",
-        newRepository
-      );
+      await axios.post("https://localhost:7029/api/Repositories", newRepository);
       setTitle("");
       setIsPublic(true);
       fetchRepositories();
@@ -32,20 +28,11 @@ function RepositoryForm({ fetchRepositories }) {
       <h3>Create New Repository</h3>
       <div>
         <label>Title:</label>
-        <input
-          type="text"
-          required
-          value={title}
-          onChange={(e) => setTitle(e.target.value)}
-        />
+        <input type="text" required value={title} onChange={e => setTitle(e.target.value)} />
       </div>
       <div>
         <label>
-          <input
-            type="checkbox"
-            checked={isPublic}
-            onChange={(e) => setIsPublic(e.target.checked)}
-          />
+          <input type="checkbox" checked={isPublic} onChange={e => setIsPublic(e.target.checked)} />
           Public
         </label>
       </div>
