@@ -5,6 +5,7 @@ Source Control Overview
 Your team is tasked with the development of the next great open-source distributed version control system designed to handle everything from small to exceptionally large projects with speed and efficiency.
 
 Some of your competitors are:
+
 • https://github.com/
 
 • https://bitbucket.org/
