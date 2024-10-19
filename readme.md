@@ -1,14 +1,20 @@
 Software Engineering Problem - Version 1
+
 Source Control Overview
+
 Your team is tasked with the development of the next great open-source distributed version control system designed to handle everything from small to exceptionally large projects with speed and efficiency.
 
 Some of your competitors are:
 • https://github.com/
+
 • https://bitbucket.org/
+
 • https://gitlab.com/
 
 Requirements:
+
 The requirements for the first version of the application are simple. 
+
 Hint: Read the requirements and check the Your Tasks section before you begin implementation.
 
 • Create a basic and simplified registration and login.
@@ -56,7 +62,9 @@ ALL
 
 
 Technology stack
+
 The solutions architect has chosen the following technologies:
+
 • ASP.NET Core 6.0 with C#
 
 • Entity Framework Core
