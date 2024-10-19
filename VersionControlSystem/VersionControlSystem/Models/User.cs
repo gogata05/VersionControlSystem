@@ -8,7 +8,7 @@ namespace VersionControlSystem.Models
 
         [Required]
         [MaxLength(50)]
-        public string Username { get; set; } // Уникален индекс
+        public string Username { get; set; }
 
         [Required]
         [MaxLength(100)]

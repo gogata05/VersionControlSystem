@@ -15,7 +15,6 @@ namespace VersionControlSystem.Controllers
             _context = context;
         }
 
-        // GET: api/PullRequests
         [HttpGet]
         public IActionResult GetPullRequests()
         {
@@ -24,11 +23,9 @@ namespace VersionControlSystem.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Логика за получаване на нерешени pull requests
             throw new NotImplementedException();
         }
 
-        // POST: api/PullRequests
         [HttpPost]
         public IActionResult CreatePullRequest([FromBody] PullRequest pullRequest)
         {
@@ -37,11 +34,9 @@ namespace VersionControlSystem.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Логика за създаване на pull request
             throw new NotImplementedException();
         }
 
-        // PUT: api/PullRequests/{id}/accept
         [HttpPut("{id}/accept")]
         public IActionResult AcceptPullRequest(int id)
         {
@@ -50,11 +45,9 @@ namespace VersionControlSystem.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Логика за приемане на pull request
             throw new NotImplementedException();
         }
 
-        // PUT: api/PullRequests/{id}/reject
         [HttpPut("{id}/reject")]
         public IActionResult RejectPullRequest(int id)
         {
@@ -63,7 +56,6 @@ namespace VersionControlSystem.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Логика за отхвърляне на pull request
             throw new NotImplementedException();
         }
     }

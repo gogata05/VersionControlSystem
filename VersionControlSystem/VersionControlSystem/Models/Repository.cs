@@ -9,13 +9,13 @@ namespace VersionControlSystem.Models
 
         [Required]
         [MaxLength(100)]
-        public string Title { get; set; } // For search index
+        public string Title { get; set; }
 
         public bool IsPublic { get; set; }
 
         public int OwnerId { get; set; }
 
-        [JsonIgnore] // Prevent serialization and model binding
+        [JsonIgnore]
         public User Owner { get; set; }
 
         public ICollection<RepositoryUser> Contributors { get; set; } = new List<RepositoryUser>();
@@ -23,7 +23,6 @@ namespace VersionControlSystem.Models
         public ICollection<Issue> Issues { get; set; } = new List<Issue>();
         public ICollection<PullRequest> PullRequests { get; set; } = new List<PullRequest>();
 
-        // Нови навигационни свойства за PullRequests
         public ICollection<PullRequest> SourcePullRequests { get; set; } = new List<PullRequest>();
         public ICollection<PullRequest> TargetPullRequests { get; set; } = new List<PullRequest>();
     }

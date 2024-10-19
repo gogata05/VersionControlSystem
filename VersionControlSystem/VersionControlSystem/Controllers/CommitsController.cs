@@ -15,7 +15,6 @@ namespace VersionControlSystem.Controllers
             _context = context;
         }
 
-        // GET: api/Commits
         [HttpGet]
         public IActionResult GetCommits([FromQuery] string search, [FromQuery] int? authorId)
         {
@@ -24,11 +23,9 @@ namespace VersionControlSystem.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Логика за получаване на списък с комити
             throw new NotImplementedException();
         }
 
-        // GET: api/Commits/{id}
         [HttpGet("{id}")]
         public IActionResult GetCommit(int id)
         {
@@ -37,11 +34,9 @@ namespace VersionControlSystem.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Логика за получаване на конкретен комит
             throw new NotImplementedException();
         }
 
-        // POST: api/Commits
         [HttpPost]
         public IActionResult CreateCommit([FromBody] Commit commit)
         {
@@ -50,7 +45,6 @@ namespace VersionControlSystem.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Логика за създаване на комит
             throw new NotImplementedException();
         }
     }

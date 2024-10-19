@@ -17,11 +17,9 @@ namespace VersionControlSystem.Controllers
             _context = context;
         }
 
-        // GET: api/Repositories
         [HttpGet]
         public IActionResult GetRepositories([FromQuery] string? search)
         {
-            // Mock current user
             int currentUserId = 1;
 
             var repositories = _context.Repositories
@@ -46,7 +44,6 @@ namespace VersionControlSystem.Controllers
             return Ok(result);
         }
 
-        // GET: api/Repositories/{id}
         [HttpGet("{id}")]
         public IActionResult GetRepository(int id)
         {
@@ -60,7 +57,6 @@ namespace VersionControlSystem.Controllers
             return Ok(repository);
         }
 
-        // POST: api/Repositories
         [HttpPost]
         public IActionResult CreateRepository([FromBody] CreateRepositoryDto repositoryDto)
         {
@@ -69,7 +65,6 @@ namespace VersionControlSystem.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Mock current user
             int currentUserId = 1;
 
             var repository = new Repository
@@ -85,11 +80,9 @@ namespace VersionControlSystem.Controllers
             return CreatedAtAction(nameof(GetRepository), new { id = repository.Id }, repository);
         }
 
-        // DELETE: api/Repositories/{id}
         [HttpDelete("{id}")]
         public IActionResult DeleteRepository(int id)
         {
-            // Mock current user
             int currentUserId = 1;
 
             var repository = _context.Repositories.FirstOrDefault(r => r.Id == id);
@@ -101,7 +94,7 @@ namespace VersionControlSystem.Controllers
 
             if (repository.OwnerId != currentUserId)
             {
-                return Forbid(); // Only owners can delete repositories
+                return Forbid();
             }
 
             _context.Repositories.Remove(repository);

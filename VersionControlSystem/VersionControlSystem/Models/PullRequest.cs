@@ -23,7 +23,6 @@ namespace VersionControlSystem.Models
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
-        // Релации
         [Required]
         public int SourceRepositoryId { get; set; }
         public Repository SourceRepository { get; set; }

@@ -16,13 +16,12 @@ namespace VersionControlSystem.Models
         [Required]
         public string Description { get; set; }
 
-        public string Tags { get; set; } // Може да съхранява таговете като разделен със запетая низ
+        public string Tags { get; set; }
 
         public IssueStatus Status { get; set; } = IssueStatus.Open;
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
-        // Релации
         public int RepositoryId { get; set; }
         public Repository Repository { get; set; }
 

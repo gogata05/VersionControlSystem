@@ -17,11 +17,10 @@ namespace VersionControlSystem.Models
         public string FileName { get; set; }
 
         [Required]
-        public string FileDifferences { get; set; } // Съхранява разликите като текст
+        public string FileDifferences { get; set; }
 
         public ModificationType ModificationType { get; set; }
 
-        // Релации
         public int CommitId { get; set; }
         public Commit Commit { get; set; }
     }
