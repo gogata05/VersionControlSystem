@@ -11,35 +11,58 @@ Requirements:
 The requirements for the first version of the application are simple. 
 Hint: Read the requirements and check the Your Tasks section before you begin implementation.
 
- • Create a basic and simplified registration and login.
+• Create a basic and simplified registration and login.
+
 • Every user who is signed in can create repositories.
+
 • Repositories can be public or private
+
 • Repository owners can add other registered users as contributors. They can also remove them from the list of contributors.
-• Every user can see all the public repositories, all his private repositories, and additionally, all the private repositories to which he/she can contribute
+
+• Every user can see all the public repositories, all his private repositories, and additionally, all the private repositories to which he/she can  contribute
+
 • Every user can create issues in the public repositories. Only contributors can create issues in private repositories
+
 • Only contributors can create commits in both public and private repositories
+
 • A commit should contain a list of modifications. Each modification must include a filename, file differences, and modification type (Added/ Modified/Deleted). Hint: It is sufficient to store the file differences as text.
- • An issue should have a description, tags, and status (Open/ On Hold/Closed)
+
+• An issue should have a description, tags, and status (Open/ On Hold/Closed)
+
 • When viewing the list of repositories, commits, and issues, the most recent entries should be on top.
+
 • The users should be able to search in the list of repositories, commits, and issues by title. 
+
 • The users should be able to filter the list of commits by author.
+
 • The users should be able to filter the list of issues by status
+
 • The users can edit their issues. The repository owners can edit issues created by the other users.
 ALL
+
 • The users can delete their repositories and issues.
+
 • The users can add pull requests to a repository.
+
 • The repository owner can accept or reject your pull request.
+
 • The pull request should include a list of commits from a repository that you own.
+
 • If the repository owner accepts the pull request, the list of associated commits should be added to the repository.
+
 • When viewing the list of pull requests, the most recent entries should be on top.
+
 • Only the pull requests that are not resolved should be displayed
 
 
 Technology stack
 The solutions architect has chosen the following technologies:
 • ASP.NET Core 6.0 with C#
+
 • Entity Framework Core
+
 • MS SOL Server
+
 • React v18
 
 
