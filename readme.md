@@ -1,4 +1,4 @@
-Software Engineering Problem - Version 1
+Software Engineering Problem - Version 1 - 360 mins - 1 Task
 
 Source Control Overview
 
